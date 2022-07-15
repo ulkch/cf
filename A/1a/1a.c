@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main_()
 {
     unsigned long long int n,m,a,res;
     scanf("%lld%lld%lld", &n, &m, &a);
